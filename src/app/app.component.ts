@@ -9,5 +9,6 @@ export class AppComponent {
   title = 'moments';
 
   userName="Felipe";
+  pass="umdoistres"
 
 }
