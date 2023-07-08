@@ -8,7 +8,8 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'moments';
 
-  userName="Felipe";
-  pass="umdoistres"
+  function="Desenvolvedor";
+  role="ADM";
+
 
 }

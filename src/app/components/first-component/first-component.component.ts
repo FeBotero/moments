@@ -6,10 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./first-component.component.scss']
 })
 export class FirstComponentComponent {
-  name:string = "Felipe";
-  address={
-    street:"Franz Schubbert",
-    number:840,
-  }
+  nome:string=""
+
+
 
 }

@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./new-component.component.scss']
 })
 export class NewComponentComponent {
-
+  techs:string[]=["CSS","HTML","JS"]
 }
